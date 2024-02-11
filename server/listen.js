@@ -1,3 +1,6 @@
+
+//This code is only for testing purpose 
+
 const { eventEmitter } = require("./fetch");
 
 // Listen for updates from fetch.js
